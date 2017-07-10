@@ -1,0 +1,83 @@
+p {
+  font-family: serif;
+  font-size: 20px;
+  color: black;
+  line-height: normal;
+}
+h1{
+  font-size: 20px;
+  color:cyan;
+  border-bottom: 2px solid cyan;
+  text-align: left;
+}
+h2{
+  font-size: 50px;
+  color:red;
+  text-transform: uppercase;
+}
+#presentacion1{
+  background-position: center;
+  background-color: blue;
+  border: 4px transparent blue;
+  margin: 40px;
+  padding: 5px;
+  border-radius: 30px;
+  text-align: center;
+}
+.li_presentacion{
+  border-bottom: 2px solid green;
+}
+h3{
+  font-size: 35px;
+  color:purple;
+  border-bottom: 2.5px solid purple;
+}
+body{
+  font-size: 30px;
+  background-color: rgb(215, 215, 215);
+}
+li{
+  font-size: 25px;
+  color:green;
+}
+li strong {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+a{
+  color: green;
+  background-color: ;
+  text-decoration: none;
+}
+.all_details{
+  float: right;
+  width: 77%;
+}
+.izq{
+  float: left;
+  width: 20%;
+  position: fixed;
+}
+.image{
+  width: 100%;
+  border: 5px solid red;
+}
+.reordenar_lista{
+  list-style: none;
+  padding: 0;
+}
+.seccion{
+  background-color: white;
+  border:3px solid red;
+  border-radius: 35px;
+  padding: 10px;
+  margin-top: 15px;
+}
+.colegio{
+  color: green;
+  font-size: 22.5px;
+}
+.slider li{
+  color: black;
+  font-size: 21px;
+}
